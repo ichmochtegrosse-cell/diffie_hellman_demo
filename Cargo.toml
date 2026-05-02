@@ -1,0 +1,8 @@
+[package]
+name = "diffie_hellman_demo"
+version = "1.0.0"
+edition = "2021"
+authors = ["Ton Nom <ton@email.com>"]
+description = "Démonstration pédagogique du protocole Diffie-Hellman - Projet RP2026"
+
+[dependencies]
